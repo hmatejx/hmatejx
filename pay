@@ -1,0 +1,13 @@
+{
+  "addresses": [
+    {
+      "paymentNetwork": "XRPL",
+      "environment": "MAINNET",
+      "addressDetailsType": "CryptoAddressDetails",
+      "addressDetails": {
+        "address": "X7FyFRfyttQY98qhe9W7987S8P9qTMdVaSitV47yS9pvNZR"
+      }
+    }
+  ],
+  "payId": "pay$hmatejx.github.io"
+}
